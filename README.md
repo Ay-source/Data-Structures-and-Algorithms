@@ -2,5 +2,5 @@
 Different algorithms in different languages
 
 
-##C
+## C
 Data Structures and Algorithms can de seen in the C folder.
